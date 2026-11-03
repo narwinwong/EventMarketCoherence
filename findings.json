@@ -1,0 +1,19 @@
+{
+  "id": "E01",
+  "title": "E01 | Registered quote qualification",
+  "labels": [
+    "Pair-rounds",
+    "Calculable",
+    "Positive margin",
+    "Execution qualified"
+  ],
+  "values": [
+    45,
+    9,
+    0,
+    0
+  ],
+  "unit": "Count",
+  "limitation": "Registered sample only; excluded duplicate omitted. No executed P&L.",
+  "rotation": 0
+}
